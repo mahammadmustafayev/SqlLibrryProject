@@ -1,0 +1,6 @@
+C:\Users\mahammadvm\Desktop\FunctionLibrary\FunctionLibrary\bin\Debug\FunctionLibrary.dll
+C:\Users\mahammadvm\Desktop\FunctionLibrary\FunctionLibrary\bin\Debug\FunctionLibrary.pdb
+C:\Users\mahammadvm\Desktop\FunctionLibrary\FunctionLibrary\obj\Debug\FunctionLibrary.csproj.AssemblyReference.cache
+C:\Users\mahammadvm\Desktop\FunctionLibrary\FunctionLibrary\obj\Debug\FunctionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mahammadvm\Desktop\FunctionLibrary\FunctionLibrary\obj\Debug\FunctionLibrary.dll
+C:\Users\mahammadvm\Desktop\FunctionLibrary\FunctionLibrary\obj\Debug\FunctionLibrary.pdb
