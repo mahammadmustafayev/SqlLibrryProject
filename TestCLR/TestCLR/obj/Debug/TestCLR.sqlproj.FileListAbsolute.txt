@@ -1,0 +1,13 @@
+C:\Users\acer\Desktop\TestCLR\TestCLR\bin\Debug\TestCLR.dacpac
+C:\Users\acer\Desktop\TestCLR\TestCLR\bin\Debug\TestCLR.dll
+C:\Users\acer\Desktop\TestCLR\TestCLR\bin\Debug\TestCLR.pdb
+C:\Users\acer\Desktop\TestCLR\TestCLR\bin\Debug\TestSqlLibrary.dll
+C:\Users\acer\Desktop\TestCLR\TestCLR\bin\Debug\TestSqlLibrary.pdb
+C:\Users\acer\Desktop\TestCLR\TestCLR\obj\Debug\TestCLR.sqlproj.AssemblyReference.cache
+C:\Users\acer\Desktop\TestCLR\TestCLR\obj\Debug\TestCLR.sqlproj.CopyComplete
+C:\Users\acer\Desktop\TestCLR\TestCLR\obj\Debug\TestCLR.dll
+C:\Users\acer\Desktop\TestCLR\TestCLR\obj\Debug\TestCLR.pdb
+C:\Users\acer\Desktop\TestCLR\TestCLR\obj\Debug\Model.xml
+C:\Users\acer\Desktop\TestCLR\TestCLR\obj\Debug\refactor.xml
+C:\Users\acer\Desktop\TestCLR\TestCLR\obj\Debug\postdeploy.sql
+C:\Users\acer\Desktop\TestCLR\TestCLR\obj\Debug\predeploy.sql

@@ -1,0 +1,6 @@
+C:\Users\acer\Desktop\TestCLR\TestSqlLibrary\bin\Debug\TestSqlLibrary.dll
+C:\Users\acer\Desktop\TestCLR\TestSqlLibrary\bin\Debug\TestSqlLibrary.pdb
+C:\Users\acer\Desktop\TestCLR\TestSqlLibrary\obj\Debug\TestSqlLibrary.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\TestCLR\TestSqlLibrary\obj\Debug\TestSqlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\TestCLR\TestSqlLibrary\obj\Debug\TestSqlLibrary.dll
+C:\Users\acer\Desktop\TestCLR\TestSqlLibrary\obj\Debug\TestSqlLibrary.pdb
